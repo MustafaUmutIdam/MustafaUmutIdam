@@ -16,10 +16,10 @@
 
 | Proje | Açıklama | Teknolojiler |
 |---|---|---|
-| **Mobile‑QRPassQRScanner** | Mobil uygulama: QR kod ile geçirme / kimlik doğrulama gibi bir sistem. | Dart, Flutter |
-| **Ev‑Lezzeti** | Yemek tarifleri / sipariş uygulaması ya da restoran‑tarif platformu olabilir. | Kotlin, Android |
-| **PersonPhoneList** | Personel ya da kişi‑listeleme uygulaması, muhtemelen veri tabanlı. | Kotlin, Android, MVVM |
-| **MovieApi** | Film verisini çeken bir API/donanım/servis‑kısmı, backend odaklı. | C#, Web API |
+| **Mobile‑QRPassQRScanner** | Mobil uygulama: QR kod ile geçirme / bilet doğrulama  sistemi. | Dart, Flutter |
+| **Ev‑Lezzeti** | Yemek tarifleri / ev yemeği mobil sipariş uygulaması . | Kotlin, Android |
+| **PersonPhoneList** | Kişi listeleme uygulaması, Firestore veri tabanlı. | Kotlin, Android, MVVM |
+| **MovieApi** | Film verisi çeken bir API backend. | C#, Web API |
 
 ---
 
@@ -27,16 +27,16 @@
 
 - **Diller / Platformlar**: Kotlin, Dart/Flutter, C#, .NET, REST API
 - **Mimari & Kalite**: MVVM, Onion Architecture, Clean Architecture, SOLID prensipleri
-- **Araçlar / Versiyon Kontrol**: Git/GitHub, GitHub Actions, vs.
-- **Veri Tabanları & Backend**: Firebase / Firestore (varsa ya da kullanmaya niyetin varsa), vs.
+- **Araçlar / Versiyon Kontrol**: Git/GitHub, GitHub Actions 
+- **Veri Tabanları & Backend**: Firebase / Firestore , Microsoft SQL Server
 - **Diğer İlgi Alanları**: DevOps temelleri, CI/CD, bulut servisleri (AWS/Azure/GCP), performans optimizasyonu
 
 ---
 
 ## 🧭 Şu An & Gelecek Planları
 
-- Flutter & Dart ile çapraz platform mobil uygulamalar geliştirmeye devam etmek
-- Backend tarafında daha derinleşmek: güvenlik, skalabilite, servis odaklı mimariler
+- Flutter & Dart ile çapraz platform ve Kotlin Native ile mobil uygulamalar geliştirmeye devam etmek
+- Backend tarafında daha derinleşmek: güvenlik, servis odaklı mimariler
 - Açık kaynak / açık kaynak katkısı yapmak, side‑project’lerle portföyü genişletmek
 
 ---
