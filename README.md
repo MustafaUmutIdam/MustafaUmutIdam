@@ -6,8 +6,8 @@
 
 ## 🛠️ Hakkımda
 
-- Yazılım geliştiricisiyim; özellikle **mobil uygulama geliştirme**, **backend** ve **API tasarımı** konularında çalışıyorum.
-- Öğrenmekten keyif aldığım teknolojiler: Dart & Flutter, Kotlin, C#, .NET, RESTful API, Bulut hizmetleri.
+- Yazılım geliştiricisiyim; özellikle **mobil uygulama geliştirme**, **backend**,**WebApp** ve **API tasarımı** konularında çalışıyorum.
+- Kullandığım teknolojiler: Dart & Flutter, Kotlin, C#, .NET, TypeScript, JavaScript, RESTful API, Bulut hizmetleri.
 - Takım çalışması, temiz kod (clean code), mimari desenler (MVVM, Onion Architecture gibi) ilgimi çeker.
 
 ---
@@ -25,17 +25,17 @@
 
 ## 🚀 Teknik Yetenekler & Araçlar
 
-- **Diller / Platformlar**: Kotlin, Dart/Flutter, C#, .NET, REST API
+- **Diller / Platformlar**: Kotlin, Dart/Flutter, C#, Java, React, .NET, REST API
 - **Mimari & Kalite**: MVVM, Onion Architecture, Clean Architecture, SOLID prensipleri
 - **Araçlar / Versiyon Kontrol**: Git/GitHub, GitHub Actions 
-- **Veri Tabanları & Backend**: Firebase / Firestore , Microsoft SQL Server
+- **Veri Tabanları & Backend**: Firebase / Firestore , Microsoft SQL Server, MongoDB
 - **Diğer İlgi Alanları**: DevOps temelleri, CI/CD, bulut servisleri (AWS/Azure/GCP), performans optimizasyonu
 
 ---
 
 ## 🧭 Şu An & Gelecek Planları
 
-- Flutter & Dart ile çapraz platform ve Kotlin Native ile mobil uygulamalar geliştirmeye devam etmek
+- Flutter & Dart ile çapraz platform ve Kotlin Native ile mobil uygulamalara, TS ve JS ile Web uygulamaları geliştirmeye devam etmek
 - Backend tarafında daha derinleşmek: güvenlik, servis odaklı mimariler
 - Açık kaynak / açık kaynak katkısı yapmak, side‑project’lerle portföyü genişletmek
 
