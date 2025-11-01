@@ -20,6 +20,7 @@
 | **Ev‑Lezzeti** | Yemek tarifleri / ev yemeği mobil sipariş uygulaması . | Kotlin, Android |
 | **PersonPhoneList** | Kişi listeleme uygulaması, Firestore veri tabanlı. | Kotlin, Android, MVVM |
 | **MovieApi** | Film verisi çeken bir API backend. | C#, Web API |
+| **Taksi Kontrol** | Web ve Mobil uygulamar ile taksi duraklarının kontrolünü sağlayan fullstack proje. | TypeScript, JavaScript, Flutter, MongoDB |
 
 ---
 
@@ -29,15 +30,6 @@
 - **Mimari & Kalite**: MVVM, Onion Architecture, Clean Architecture, SOLID prensipleri
 - **Araçlar / Versiyon Kontrol**: Git/GitHub, GitHub Actions 
 - **Veri Tabanları & Backend**: Firebase / Firestore , Microsoft SQL Server, MongoDB
-- **Diğer İlgi Alanları**: DevOps temelleri, CI/CD, bulut servisleri (AWS/Azure/GCP), performans optimizasyonu
-
----
-
-## 🧭 Şu An & Gelecek Planları
-
-- Flutter & Dart ile çapraz platform ve Kotlin Native ile mobil uygulamalara, TS ve JS ile Web uygulamaları geliştirmeye devam etmek
-- Backend tarafında daha derinleşmek: güvenlik, servis odaklı mimariler
-- Açık kaynak / açık kaynak katkısı yapmak, side‑project’lerle portföyü genişletmek
 
 ---
 
