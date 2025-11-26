@@ -20,7 +20,7 @@
 | **Ev‑Lezzeti** | Yemek tarifleri / ev yemeği mobil sipariş uygulaması . | Kotlin, Android |
 | **PersonPhoneList** | Kişi listeleme uygulaması, Firestore veri tabanlı. | Kotlin, Android, MVVM |
 | **MovieApi** | Film verisi çeken bir API backend. | C#, Web API |
-| **Taksi Kontrol** | Web ve Mobil uygulamar ile taksi duraklarının kontrolünü sağlayan fullstack proje. | TypeScript, JavaScript, Flutter, MongoDB |
+| **Taksi Kontrol** | Web ve Mobil uygulamar ile taksi duraklarının kontrolünü sağlayan fullstack proje. | TypeScript, JavaScript, Kotlin, MongoDB |
 
 ---
 
